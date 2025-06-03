@@ -120,6 +120,14 @@ class HybridTranslator {
         // Get translators that support new language setting.
         const availableTranslators = this.getAvailableTranslatorsFor(from, to);
 
+        // If no translator supports this language setting, keep current config.
+        if (availableTranslators.length === 0) {
+            console.error(
+                `No translators available for language pair: ${from} -> ${to}`
+            );
+            return this.CONFIG;
+        }
+
         // Replace translators that don't support new language setting with a default translator.
         const defaultTranslator = availableTranslators[0];
 
