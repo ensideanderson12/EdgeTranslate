@@ -46,3 +46,11 @@ Crie abas (planilhas internas) com os seguintes nomes e colunas principais:
 4. Consulte a aba `LogSimulacoes` (caso deseje registrar histórico) para salvar cada simulação.
 
 Com essas etapas você terá uma planilha dinâmica capaz de analisar múltiplos fornecedores e identificar o melhor negócio considerando preço da madeira, frete e condições de pagamento.
+
+## Exemplo de Cálculos
+Essas fórmulas auxiliam na composição dos custos e podem ser incluídas em colunas próprias:
+- `PrecoMadeiraTotal = PrecoPorM3 × QuantidadeM3`
+- `FreteTotal = DistanceKM × FretePorKM × QuantidadeTon`
+- `PrecoPorM3 = PrecoMadeiraTotal / QuantidadeM3`
+
+Apresente cada um desses valores separadamente na aba `SimulacaoInteligente` para facilitar a comparação entre cenários.
