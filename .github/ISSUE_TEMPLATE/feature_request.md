@@ -1,6 +1,9 @@
 ---
 name: feature request 功能建议
 about: tell us your feature suggestions向我们提供你的建议
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
