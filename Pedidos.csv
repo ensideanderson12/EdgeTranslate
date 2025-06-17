@@ -1,0 +1,2 @@
+Fornecedor,Destino,Produto,Quantidade,Tipo Caminhão,Distância (km),Duração (h),Custo Frete (R$),Custo Madeira (R$),Total (R$),Status
+Madeireira Sul Ltda,"São Paulo, SP",Tábua,30,Truck,,,,,,Calcular

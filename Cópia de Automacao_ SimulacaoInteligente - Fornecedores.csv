@@ -1,0 +1,8 @@
+Nome,Cidade,UF,Contato,Essência,Produto,Espessura,Largura,Comprimento,m3 por Peça,Densidade Verde,Densidade Seca,Peso por Peça Verde,Peso por Peça Seca,Preço Verde (R$/m³),Preço Seca (R$/m³),Preço Verde (R$/Peça),Preço Seca (R$/Peça)
+Madeireira Sul Ltda,Lages,Santa Catarina,contato@madeirasul.com,Pinus,Tábua,20,100,3000,"0,006"," 1,000 kG"," 0,500 kG"," 0,006 kG"," 0,003 kG","R$ 800,00","R$ 950,00","R$ 4,80","R$ 5,70"
+Leandro Serraria Reserva,Reserva,Paraná,contato@madeirasul.com,Pinus,Tábua,20,300,3000,"0,018"," 1,000 kG"," 0,500 kG"," 0,018 kG"," 0,009 kG","R$ 1.170,00","R$ 1.250,00","R$ 21,06","R$ 22,50"
+Giva Serraria Pinus,São Martinho,Santa Catarina,contato@madeirasul.com,Pinus,Tábua,20,300,3000,"0,018"," 1,000 kG"," 0,500 kG"," 0,018 kG"," 0,009 kG","R$ 1.170,00","R$ 1.250,00","R$ 21,06","R$ 22,50"
+Rato/Fernando Serraria pinus Palmeiras,Palmeiras,Santa Catarina,contato@madeirasul.com,Pinus,Tábua,20,300,3000,"0,018"," 1,000 kG"," 0,500 kG"," 0,018 kG"," 0,009 kG","R$ 1.170,00","R$ 1.250,00","R$ 21,06","R$ 22,50"
+Marcos Serraria pinus Turvo,Turvo,Paraná,contato@madeirasul.com,Pinus,Tábua,20,300,3000,"0,018"," 1,000 kG"," 0,500 kG"," 0,018 kG"," 0,009 kG","R$ 1.170,00","R$ 1.250,00","R$ 21,06","R$ 22,50"
+Matheus serraria eucalipto,Mandirituba,Paraná,contato@madeirasul.com,Eucalipto,Tábua,17,90,1200,"0,002"," 1,000 kG"," 0,500 kG"," 0,002 kG"," 0,001 kG","R$ 750,00",,"R$ 1,38","R$ 0,00"
+Valdonir Serraria Pinus Sideropolis,Siderópolis,Santa Catarina,contato@madeirasul.com,Pinus,Tábua,20,300,3000,"0,018"," 1,000 kG"," 0,500 kG"," 0,018 kG"," 0,009 kG","R$ 1.170,00","R$ 1.250,00","R$ 21,06","R$ 22,50"
