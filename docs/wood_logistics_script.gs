@@ -16,3 +16,23 @@ function updateLogistics() {
     }
   }
 }
+
+/**
+ * Retorna o preço do fornecedor informado.
+ * A comparação ignora maiúsculas/minúsculas e espaços extras.
+ *
+ * @param {string} nomeFornecedor Nome do fornecedor a ser buscado
+ * @param {'seca'|'verde'} tipo Tipo de madeira ('seca' ou 'verde')
+ * @return {number|string} Valor encontrado ou string vazia se não existir
+ */
+function getPrecoFornecedor(nomeFornecedor, tipo) {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('CadastroFornecedores');
+  var data = sheet.getDataRange().getValues();
+  for (var i = 1; i < data.length; i++) {
+    var nome = data[i][0];
+    if (nome && nome.toString().trim().toLowerCase() === String(nomeFornecedor).trim().toLowerCase()) {
+      return tipo === 'verde' ? data[i][4] : data[i][3];
+    }
+  }
+  return '';
+}

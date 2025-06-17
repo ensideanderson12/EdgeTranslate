@@ -40,7 +40,7 @@ Crie abas (planilhas internas) com os seguintes nomes e colunas principais:
 4. Configure um acionador (gatilho) diário para atualizar automaticamente as distâncias e durações.
 
 ## Como Usar
-1. Cadastre todos os fornecedores e caminhões nas respectivas abas.
+1. Cadastre todos os fornecedores e caminhões nas respectivas abas. Padronize o nome dos fornecedores (sem espaços extras e preferencialmente em minúsculas) para facilitar as buscas nas fórmulas e scripts.
 2. Informe as rotas na aba `Distancias`.
 3. Utilize a aba `SimulacaoInteligente` para inserir o destino do cliente e a quantidade desejada. As fórmulas irão recuperar automaticamente preços, calcular o frete (distância × frete por km × capacidade) e indicar o fornecedor e caminhão com menor custo total.
 4. Consulte a aba `LogSimulacoes` (caso deseje registrar histórico) para salvar cada simulação.
