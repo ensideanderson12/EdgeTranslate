@@ -29,3 +29,8 @@ The sheet should contain the following main tabs:
 Use Google Apps Script to connect to Google Maps API and update wood prices and freight data daily. A starter script is provided in `wood_logistics_script.gs`.
 
 Import `wood_logistics_template.csv` into Google Sheets to start.
+
+The template now contains additional sample routes, including Curitiba to
+Florianópolis and Telêmaco Borba to Uberaba. Download the file from the
+[`docs` directory](wood_logistics_template.csv) of this repository and import it
+into your spreadsheet to see the example data.

@@ -1,3 +1,6 @@
 Date,Region,WoodType,PricePerM3,Source,Origin,Destination,DistanceKM,EstimatedDurationH,TruckModel,Axles,FreightPerKM
 2024-01-01,Sao Paulo,Pinus,120,ExampleSource,Sao Paulo,Rio de Janeiro,430,6.5,Truck A,4,7.5
 2024-01-01,Sao Paulo,Eucalyptus,150,ExampleSource,Sao Paulo,Rio de Janeiro,430,6.5,Truck A,4,7.5
+2024-01-05,Parana,Pinus,115,TelemacoSupplier,Telemaco Borba,Uberaba,1150,18,Truck B,6,9.57
+2024-01-05,Parana,Pinus,120,Giva Serraria Pinus,Curitiba,Rio de Janeiro,850,12,Truck C,6,9.00
+2024-01-05,Parana,Eucalyptus,110,ExampleSource,Curitiba,Florianopolis,300,5,Truck C,6,7.00
