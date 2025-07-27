@@ -132,6 +132,7 @@ After building finished, you will get the unpacked extension under `./packages/E
 [Wiki](./docs/wiki/en/Introduction.md)
 
 [Wood Profitability Module](./docs/wiki/en/WoodProfitabilityModule.md)
+[Wood Profitability CLI](./packages/wood-profitability/README.md)
 
 ## Contact Us
 
