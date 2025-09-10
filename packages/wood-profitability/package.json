@@ -1,0 +1,11 @@
+{
+  "name": "wood-profitability",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "description": "Simple CLI to calculate wood profitability from CSV data",
+  "dependencies": {}
+}
